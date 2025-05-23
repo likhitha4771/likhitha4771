@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="index.css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" >
+<meta name="robots" content="none,noarchive"/>
+</head>
+<body>
+    <div class="bg">
+        <div class="container">
+            <div class="row">
+                <div id="sectionhome">
+                    <nav class="navbar navbar-expand-lg navbar-light bg-ligh navt">
+                        <a class="nav-link active" href="#">
+                            <img class="img1" src="https://thumbs.dreamstime.com/b/web-183282273.jpg" />
+                            <span class="sr-only">(current)</span>
+                        </a>
+                        <a class="nav-link a1" href="#sectionMens">MEN</a>
+                        <a class="nav-link a1" href="#sectionWomens">WOMEN</a>
+                        <a class="nav-link a1" href="#sectionTrending">TRENDING</a>
+                        <a class="nav-link a1" href="#sectionContact">CONTACT</a>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search i0" viewBox="0 0 16 16">
+                            <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001q.044.06.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1 1 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0" />
+                        </svg>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-cart i1" viewBox="0 0 16 16">
+                            <path d="M0 1.5A.5.5 0 0 1 .5 1H2a.5.5 0 0 1 .485.379L2.89 3H14.5a.5.5 0 0 1 .491.592l-1.5 8A.5.5 0 0 1 13 12H4a.5.5 0 0 1-.491-.408L2.01 3.607 1.61 2H.5a.5.5 0 0 1-.5-.5M3.102 4l1.313 7h8.17l1.313-7zM5 12a2 2 0 1 0 0 4 2 2 0 0 0 0-4m7 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4m-7 1a1 1 0 1 1 0 2 1 1 0 0 1 0-2m7 0a1 1 0 1 1 0 2 1 1 0 0 1 0-2" />
+                        </svg>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-list i1" viewBox="0 0 16 16">
+                            <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5" />
+                        </svg>
+                    </nav>
+                    <div class="content d-flex flex-row">
+                        <div>
+                            <p>Explore Limited edition</p>
+                            <h1 class="h1">NIKE LIMITED <br>EDITION<br></h1>
+                            <p class="p1">Unleash the extradinory.Elevate <br>your game with Nike's
+                                limited<br> Edition.Where innovation meets<br> style,leaving a lasting mark.just<br> do it. </p>
+                            <button class="btn">Shop Now</button>
+                        </div>
+                        <div>
+                            <div class="card-container ml-5">
+                                <img class="img2" src="https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/450ed1df-8e17-4d87-a244-85697874661c/NIKE+REVOLUTION+7.png" />
+                                <h1 class="h2">Nike Air Max1</h1>
+                                <p class="p2">Men's Shoes<br> Color:White<br></p>
+                                <div class="d-flex flex-row pl-2">
+                                    <p> ₹ 14 999</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="card-container ml-5">
+                                <img class="img2" src="https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a1345306-b435-418f-afca-6e0cfae33129/NIKE+AIR+MAX+PLUS.png" />
+                                <h1 class="h2">Nike Air Peg</h1>
+                                <p class="p2">Men's Shoes<br> Color:Red<br></p>
+                                <div class="d-flex flex-row pl-2">
+                                    <p> ₹ 12 999</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="card-container ml-5">
+                                <img class="img2" src="https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9fdd5d66-fbda-4a6d-982c-1d1b8e6e2309/NIKE+C1TY.png" />
+                                <h1 class="h2">Nike Air Max1</h1>
+                                <p class="p2">Men's Shoes<br> Color:Black<br></p>
+                                <div class="d-flex flex-row pl-2">
+                                    <p> ₹ 16 999</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="card-container ml-5">
+                                <img class="img2" src="https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4ff263fa-3d48-4c82-b5f7-b77c18dab8cd/AIR+MAX+90.png" />
+                                <h1 class="h2">Nike Air Max1</h1>
+                                <p class="p2">Men's Shoes<br> Color:Black<br></p>
+                                <div class="d-flex flex-row pl-2">
+
+                                    <p> ₹ 13 999</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="card-container ml-5">
+                                <img class="img2" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmA6Bco_-pK0BpplnzqBP54h9V2Zgrsp6qqw&s" />
+                                <h1 class="h2">Nike Air Max1</h1>
+                                <p class="p2">Men's Shoes<br> Color:Black<br></p>
+                                <div class="d-flex flex-row pl-2">
+
+                                    <p> ₹ 16 999</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="sectionMens">
+                    <div class="bg ml-4">
+                        <h1 class="text-center mt-3">Men's Shoewear</h1>
+                        <h1 class="h3">New & Featured</h1>
+                        <div class="d-flex flex-row">
+                            <div class="newcard">
+                                <img src="https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f278e36a-db77-4574-88b6-58c14eb89e69/NIKE+VOMERO+18+%28GS%29.png" class="img4" alt="..." />
+                                <h1 class="h2">Nike Vomero 18</h1>
+                                <p class="p4">MRP : ₹ 17 495.00</p>
+
+                            </div>
+                            <div class="newcard">
+                                <img src="https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d130fcfa-7169-4172-8955-bf39cc544527/NIKE+VOMERO+18.png" class="img4" alt="..." />
+                                <h1 class="h2">Nike Air Max Dn8</h1>
+                                <p class="p4">MRP : ₹ 12 335.00</p>
+
+
+                            </div>
+                            <div class="newcard">
+                                <img src="https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/59ff827c-5672-4657-9eca-0179dfe206c3/AIR+MAX+DN8.png" class="img4" alt="..." />
+                                <h1 class="h2">Men's Nike C1 Shoes</h1>
+                                <p class="p4">MRP : ₹ 9 000.00</p>
+
+                            </div>
+                            <div class="newcard">
+                                <img class="img4" src="https://www.nike.ae/dw/image/v2/BDVB_PRD/on/demandware.static/-/Sites-akeneo-master-catalog/default/dwe5c5a024/nk/ee0/f/8/6/c/4/ee0f86c4_d1de_4b57_9332_c25be5ffd5e4.jpg?sw=520&sh=520&sm=fit" />
+                                <h1 class="h2">Jordan Spizike Low</h1>
+                                <p class="p4">MRP : ₹ 6 200.00</p>
+                            </div>
+                            <div class="newcard">
+                                <img class="img4" src="https://www.nike.ae/dw/image/v2/BDVB_PRD/on/demandware.static/-/Sites-akeneo-master-catalog/default/dwe22113cf/nk/78d/c/4/a/5/1/78dc4a51_add0_4b68_b1e0_206b1a694b27.png?sw=520&sh=520&sm=fit" />
+                                <h1 class="h2">Jordan Spizike Low</h1>
+                                <p class="p4">MRP : ₹ 14 393.00</p>
+                            </div>
+                            <div class="newcard">
+                                <img class="img4" src="https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/20fdb293-50ff-42f4-ae6d-87d5c55eae5c/AIR+MAX+DN8.png" />
+                                <h1 class="h2">Nike Jordan Jumpman Shoes</h1>
+                                <p class="p4">MRP : ₹ 19 415.00</p>
+                            </div>
+                        </div>
+                        <div id="sectionWomens">
+                            <div class="bg ml-2">
+                                <h1 class="text-center mt-3">Women's Shoewear</h1>
+                                <h1 class="h3">New & Featured</h1>
+                                <div class="d-flex flex-row">
+                                    <div class="newcard">
+                                        <img src="https://static.nike.com/a/images/q_auto:eco/t_product_v1/f_auto/dpr_3.0/h_300,c_limit/0eae1c6a-4a49-4e6a-91ab-783f57040e83/air-max-dn8-shoes-5hKVxC.png" class="img4" alt="..." />
+                                        <h1 class="h2">Nike Vomero 18</h1>
+                                        <p class="p4">MRP : ₹ 17 595.00</p>
+
+                                    </div>
+                                    <div class="newcard">
+                                        <img src="https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a6dba6ae-6c48-4220-9141-0bd33884e4f7/W+AIR+MAX+DN8.png" class="img4" alt="..." />
+                                        <h1 class="h2">Nike Air Max Dn8</h1>
+                                        <p class="p4">MRP : ₹ 17 495.00</p>
+
+
+                                    </div>
+                                    <div class="newcard">
+                                        <img src="https://static.nike.com/a/images/q_auto:eco/t_product_v1/f_auto/dpr_3.0/h_300,c_limit/59ff827c-5672-4657-9eca-0179dfe206c3/air-max-dn8-shoes-J4s7pz.png" class="img4" alt="..." />
+                                        <h1 class="h2">Men's Nike C1 Shoes</h1>
+                                        <p class="p4">MRP : ₹ 13 595.00</p>
+
+                                    </div>
+                                    <div class="newcard">
+                                        <img class="img4" src="https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/20fdb293-50ff-42f4-ae6d-87d5c55eae5c/AIR+MAX+DN8.png" />
+                                        <h1 class="h2">Jordan Spizike Low</h1>
+                                        <p class="p4">MRP : ₹ 14 200.00</p>
+                                    </div>
+                                    <div class="newcard">
+                                        <img class="img4 h-40" src="https://static.nike.com.hk/resources/product/HQ4681-010/HQ4681-010_M1.png" />
+                                        <h1 class="h2">Jordan Spizike Low</h1>
+                                        <p class="p4">MRP : ₹ 19 225.00</p>
+                                    </div>
+                                    <div class="newcard">
+                                        <img class="img4" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTU_BgX9es6hZmR0Y5KbeQaM0g3EaaZkP6dA&s" />
+                                        <h1 class="h2">Nike Jordan Jumpman Shoes</h1>
+                                        <p class="p4">MRP : ₹ 15 385.00</p>
+                                    </div>
+                                </div>
+                                <div id="sectionTrending">
+                                    <h1 class="text-center mb-5 mt-5">Trending</h1>
+                                    <div class="d-flex flex-row">
+                                        <div class="newcard">
+                                            <img class="img4" src="https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d95ad677-8900-4590-989f-7b17a3bd4080/AIR+MAX+DN8.png" />
+                                            <h1 class="h2">Nike Men's Downshifter 13 Shoes</h1>
+                                            <p class="p4">MRP : ₹ 17 495.00</p>
+                                        </div>
+                                        <div class="newcard">
+                                            <img class="img4" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTU_BgX9es6hZmR0Y5KbeQaM0g3EaaZkP6dA&s" />
+                                            <h1 class="h2">Nike Men's Uplift SC Shoes</h1>
+                                            <p class="p4">MRP : ₹ 12 595.00</p>
+                                        </div>
+                                        <div class="newcard">
+                                            <img class="img4" src="https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/20fdb293-50ff-42f4-ae6d-87d5c55eae5c/AIR+MAX+DN8.png" />
+                                            <h1 class="h2">Nike Jordan Jumpman Shoes</h1>
+                                            <p class="p4">MRP : ₹ 13 495.00</p>
+                                        </div>
+                                        <div class="newcard">
+                                            <img class="img4" src="https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/bf3ea284-3ea6-45c7-9258-15ee5494fc4e/AIR+MAX+DN8+%28GS%29.png" />
+                                            <h1 class="h2">Nike Air Max Dn8</h1>
+                                            <p class="p4">MRP : ₹ 17 999.00</p>
+                                        </div>
+                                        <div class="newcard">
+                                            <img class="img4" src="https://static.nike.com/a/images/q_auto:eco/t_product_v1/f_auto/dpr_3.0/h_300,c_limit/0eae1c6a-4a49-4e6a-91ab-783f57040e83/air-max-dn8-shoes-5hKVxC.png" />
+                                            <h1 class="h2">Nike Air Max Dn8</h1>
+                                            <p class="p4">MRP : ₹ 7 495.00</p>
+                                        </div>
+                                        <div class="newcard">
+                                            <img class="img4" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-FfUqiJd1sFaXsVDku-mKCJ0_VnatvEoVjEFdUZQ5NMwS8FDhLytDShX_4SVBv5p-zcI&usqp=CAU" />
+                                            <h1 class="h2">Nike Revolution 5 Shoes</h1>
+                                            <p class="p4">MRP : ₹ 19 405.00</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="sectionContact" class="text-center">
+                                    <h1 class="mt-5 mb-5">Follow us</h1>
+                                    <div class="d-flex flex-row justify-content-center">
+                                        <div class="follow">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-twitter-x" viewBox="0 0 16 16">
+                                                <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865z" />
+                                            </svg>
+                                        </div>
+                                        <div class="follow">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
+                                                <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.9 3.9 0 0 0-1.417.923A3.9 3.9 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.9 3.9 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.9 3.9 0 0 0-.923-1.417A3.9 3.9 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599s.453.546.598.92c.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.5 2.5 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.5 2.5 0 0 1-.92-.598 2.5 2.5 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233s.008-2.388.046-3.231c.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92s.546-.453.92-.598c.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92m-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217m0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334" />
+                                            </svg>
+                                        </div>
+                                        <div class="follow">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-facebook" viewBox="0 0 16 16">
+                                                <path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951" />
+                                            </svg>
+                                        </div>
+                                    </div>
+                                    <div class="bag">
+                                        <h1 class="h5">JUST DO IT.</h1>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+<script src="index.js"></script>
+</body>
+
+</html>
